@@ -6,3 +6,4 @@ echo " valid to vote "
 else
 echo " invalid to vote "
 fi
+this is the script for while loop
